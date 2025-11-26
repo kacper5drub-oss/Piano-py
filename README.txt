@@ -2,7 +2,7 @@
 
 Portfolio Piano using pygame + numpy + Python 3.9.
 
-![App screenshot](https://raw.githubusercontent.com/kacper5drub-oss/Piano-py/4e1beaf9acc5e91902cf32ccf48350767ff6c533/screenshots/main.png)
+![App screenshot](screenshots/main.png)
 
 If the image does not render on GitHub, use the raw image URL:
 https://raw.githubusercontent.com/kacper5drub-oss/Piano-py/4e1beaf9acc5e91902cf32ccf48350767ff6c533/screenshots/main.png
