@@ -1,0 +1,13 @@
+Piano Application License (Non-Commercial, Attribution)
+
+Copyright (c) 2025 kacper5drub-oss
+
+Permission is granted to use, read, and modify the source code of this application 
+for personal, educational, or non-commercial purposes only. 
+
+You are NOT allowed to use this software or its code for commercial purposes. 
+
+If you use or modify this code, you must provide a clear link back to the original 
+creator: https://github.com/kacper5drub-oss
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
